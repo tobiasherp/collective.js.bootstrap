@@ -3,22 +3,27 @@ Introduction
 
 This addon provide twitter's bootstrap as browser resource.
 
-Version: 3.0.0-wip
+Version: 3.2.0
 
 Resources::
 
   ++resource++collective.js.bootstrap/
+  ++resource++collective.js.bootstrap/js/npm.js
   ++resource++collective.js.bootstrap/js/bootstrap.js
   ++resource++collective.js.bootstrap/js/bootstrap.min.js
   ++resource++collective.js.bootstrap/css/bootstrap.css
   ++resource++collective.js.bootstrap/css/bootstrap.min.css
-  ++resource++collective.js.bootstrap/css/bootstrap-responsive.css
-  ++resource++collective.js.bootstrap/css/bootstrap-responsive.min.css
-  ++resource++collective.js.bootstrap/fonts/glyphiconshalflings-regular.eot
-  ++resource++collective.js.bootstrap/fonts/glyphiconshalflings-regular.otf
-  ++resource++collective.js.bootstrap/fonts/glyphiconshalflings-regular.svg
-  ++resource++collective.js.bootstrap/fonts/glyphiconshalflings-regular.ttf
-  ++resource++collective.js.bootstrap/fonts/glyphiconshalflings-regular.woff
+  ++resource++collective.js.bootstrap/css/bootstrap.css.map
+  ++resource++collective.js.bootstrap/css/bootstrap.min.css.map
+  ++resource++collective.js.bootstrap/css/bootstrap-theme.css
+  ++resource++collective.js.bootstrap/css/bootstrap-theme.min.css
+  ++resource++collective.js.bootstrap/css/bootstrap-theme.css.map
+  ++resource++collective.js.bootstrap/css/bootstrap-theme.min.css.map
+  ++resource++collective.js.bootstrap/fonts/glyphicons-halflings-regular.eot
+  ++resource++collective.js.bootstrap/fonts/glyphicons-halflings-regular.ttf
+  ++resource++collective.js.bootstrap/fonts/glyphicons-halflings-regular.woff
+  ++resource++collective.js.bootstrap/fonts/glyphicons-halflings-regular.svg
+  ++resource++collective.js.bootstrap/fonts/glyphicons-halflings-regular.woff2
 
 About Twitter Bootstrap
 =======================
